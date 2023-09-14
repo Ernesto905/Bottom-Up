@@ -10,7 +10,7 @@
 
 ## Overview
 
-Bottums Up is a single-page web application that allows users to construct a philosophical framework from the ground up. Users can choose from one of three branches of philosophy—Metaphysics, Epistemology, and Ethics—to begin their journey. The application guides users through a series of questions, offering real-time feedback and critiques through AI integration.
+Bottoms Up is a single-page web application that allows users to construct a philosophical framework from the ground up. Users can choose from one of three branches of philosophy—Metaphysics, Epistemology, and Ethics—to begin their journey. The application guides users through a series of questions, offering real-time feedback and critiques through AI integration.
 
 ## Features
 
