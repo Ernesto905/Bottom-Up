@@ -1,5 +1,7 @@
 # Bottoms Up 🍻 A Philosophical Framework Builder
 
+This repository functions as the primary source code for the application. For the infrastructure please [click me](https://github.com/Ernesto905/Bottom-up-infrastructure)
+
 ## Table of Contents
 
 - [Overview](#overview)
