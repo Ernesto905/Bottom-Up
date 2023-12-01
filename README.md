@@ -1,5 +1,7 @@
 # Bottoms Up 🍻 A Philosophical Framework Builder
 
+This repository functions as the primary source code for the application. For the infrastructure please [click me](https://github.com/Ernesto905/Bottom-up-infrastructure)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -10,7 +12,7 @@
 
 ## Overview
 
-Bottums Up is a single-page web application that allows users to construct a philosophical framework from the ground up. Users can choose from one of three branches of philosophy—Metaphysics, Epistemology, and Ethics—to begin their journey. The application guides users through a series of questions, offering real-time feedback and critiques through AI integration.
+Bottoms Up is a single-page web application that allows users to construct a philosophical framework from the ground up. Users can choose from one of three branches of philosophy—Metaphysics, Epistemology, and Ethics—to begin their journey. The application guides users through a series of questions, offering real-time feedback and critiques through AI integration.
 
 ## Features
 
